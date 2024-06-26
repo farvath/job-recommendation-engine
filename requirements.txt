@@ -1,0 +1,6 @@
+spacy
+nltk
+scikit-learn
+scipy
+chart-studio
+ipykernel
